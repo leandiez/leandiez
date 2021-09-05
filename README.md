@@ -1,7 +1,6 @@
 <h1 align="center">Hi 👋, I'm Leandro Amodey</h1>
 <h3 align="center">A passionate Sysadmin and Developr from Argentina</h3>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=leandiez&show_icons=true&locale=en&layout=compact" alt="leandiez" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandiez&show_icons=true&locale=en" alt="leandiez" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandiez&" alt="leandiez" /></p>
 
