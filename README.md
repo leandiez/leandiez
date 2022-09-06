@@ -1,21 +1,26 @@
-<h1 align="center">Hi 👋, I'm Leandro Amodey</h1>
-<h3 align="center">A passionate Sysadmin and Developr from Argentina</h3>
+<h1>Hi 👋, my name is Leandro, nice to have you here!</h1>
+<h3>I'm a passionate Sysadmin and Developer from Argentina</h3>
 
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=leandiez&show_icons=true&locale=en" alt="leandiez" />
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leandiez&" alt="leandiez" />
+<img src="https://github-readme-stats.vercel.app/api?username=leandiez&show_icons=true&locale=en" alt="leandiez" />
 
-- 🔭 I’m currently working on [Bokus JAM a project for a CVJ (Videogames Club) JAM](https://www.instagram.com/clubvideojuegosmdz)
+- 🔭 I’m currently working on [Bokus JAM a independent game project for Android](https://www.instagram.com/clubvideojuegosmdz)
 
-- 🌱 I’m currently learning **Unity, C# and DevSecOps culture.**
+- 🌱 I’m currently learning **Videogames Development and DevSecOps culture.**
 
-- 💬 Ask me about **Operating Systems, System Administration and Information Security**
-
-- 📫 How to reach me **leandroamodey@gmail.com or in Discord SolidFox#8878**
+- 📫 How to reach me **lean_10@hotmail.es or in Discord SolidFox#8878**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-amodey/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-amodey/" height="30" width="40" /></a>
-<a href="https://discord.gg/qRacJwdGhc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qRacJwdGhc" height="30" width="40" /></a>
+  <a href="https://linkedin.com/in/https://www.linkedin.com/in/leandro-amodey/" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/leandro-amodey/" height="30" width="40" />
+  </a>
+  <a href="https://discord.gg/qRacJwdGhc" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="qRacJwdGhc" height="30" width="40" />
+  </a>
+  <a href="mailto://lean_10@hotmail.es" target="blank">
+    <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/messenger.svg" alt="qRacJwdGhc" height="30" width="40" />
+  </a>
+
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
