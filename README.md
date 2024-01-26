@@ -6,8 +6,6 @@
 
 - 🌱 Also, I'm learning **Videogames Development and DevSecOps culture.**
 
-- 📫 How to reach me **lean_10@hotmail.es**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
   <a href="mailto://lean_10@hotmail.es" target="blank">
