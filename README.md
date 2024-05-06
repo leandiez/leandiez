@@ -2,7 +2,7 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=leandiez&show_icons=true&locale=en" alt="leandiez" />
 
-- 🔭 Currently working on [Bokus JAM a independent game project for Android](https://www.instagram.com/clubvideojuegosmdz](https://ethernestgames.itch.io/bokus-jam)
+- 🔭 Currently working on [Bokus JAM a independent game project for Android](https://ethernestgames.itch.io/bokus-jam)
 
 - 🌱 Also, I'm learning **Videogames Development and DevSecOps culture.**
 
